@@ -1,0 +1,7 @@
+{
+  "name": "Vercel Reverse Proxy for Render",
+  "description": "Minimal production-ready Vercel reverse proxy configuration for Render applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

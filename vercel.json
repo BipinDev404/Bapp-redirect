@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://bapp-es31.onrender.com/$1"
+    }
+  ]
+}
