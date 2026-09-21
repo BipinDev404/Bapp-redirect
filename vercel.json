@@ -1,8 +1,8 @@
 {
-  "rewrites": [
+  "routes": [
     {
-      "source": "/(.*)",
-      "destination": "https://bapp-es31.onrender.com/$1"
+      "src": "/(.*)",
+      "dest": "https://bapp-es31.onrender.com/$1"
     }
   ]
 }
